@@ -7,5 +7,5 @@ Body {
     "customerId": "1",
     "amount":12343
 }
-The endpoint for getting status of Transaction is http://localhost:8080/api/v1/customers/transaction/cb2b1ccf-1eaa-4356-9262-463737a45ee1
+The endpoint for getting status of Transaction is http://localhost:8080/api/v1/customers/transaction/{transaction-id}
 Can be used to check when the Status becomes successful
